@@ -1,0 +1,31 @@
+*NODE
+1,    0, 	 -0.5,  -0.5
+2,    0,	  0.5,  -0.5
+3,    0,	  0.5,   0.5
+4,    0,	 -0.5,   0.5
+**
+*ELEMENT,TYPE=T3D2,ELSET=bridge,LAMINATE=bridge
+1, 2, 1
+2, 2, 3
+3, 3, 4
+4, 4, 1
+*********************************************************
+**
+** MATERIALES CON DENSIDADES X2 PARA CONTEMPLAR LA RESINA
+**
+*********************************************************
+*MATERIAL, NAME=ELT5500
+*ELASTIC, TYPE=ISOTROPIC
+	6.83E9,    0.3,  1920
+**
+*********************************************************
+**
+**                  LAMINADOS
+**
+** Root Builup de LEPanl y TEPanel
+*********************************************************
+*LAMINATE, NAME=bridge
+	0      
+	0.01     
+	1   
+*END	

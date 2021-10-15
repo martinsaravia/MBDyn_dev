@@ -1,0 +1,12 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                      x
+x                MULTIBODY SBEAM                       x
+x                                                      x
+x              C.M. Saravia - 2011                     x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+Job Name: X:\1_INVESTIGACION\Software\mbdyn2.17\run\bipendulo\bipendulo_2m_20el - Instant: 03-Sep-2014 13:25:59  
+
+

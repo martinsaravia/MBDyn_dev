@@ -1,0 +1,30 @@
+*NODE
+1,    0, 	 -0.5,   -0.5
+2,    0,	  0.5,   -0.5
+3,    0,	  0.5,    0.5
+4,    0,	 -0.5,    0.5
+**
+*ELEMENT,TYPE=T3D2,ELSET=cajon,LAMINATE=cajon
+1, 1, 2
+2, 2, 3
+3, 3, 4
+4, 4, 1
+*********************************************************
+**
+** MATERIALES CON DENSIDADES X2 PARA CONTEMPLAR LA RESINA
+**
+*********************************************************
+*MATERIAL, NAME=nothing
+*ELASTIC, TYPE=ISOTROPIC
+	1e7,	0.3,	1000
+*********************************************************
+**
+**                  LAMINADOS
+**
+** Root Builup de LEPanl y TEPanel
+*********************************************************
+*LAMINATE, NAME=cajon
+	0		    
+	0.1    
+	1   	
+*END	

@@ -1,0 +1,12 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                      x
+x                MULTIBODY SBEAM                       x
+x                                                      x
+x              C.M. Saravia - 2011                     x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+Job Name: X:\1_INVESTIGACION\Software\matlab\mbdyn2.17\run\rollup\viga_50m - Instant: 22-Oct-2014 14:54:08  
+
+

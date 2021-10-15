@@ -1,0 +1,12 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                      x
+x                MULTIBODY SBEAM                       x
+x                                                      x
+x              C.M. Saravia - 2011                     x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+Job Name: X:\1_INVESTIGACION\Software\mbdyn2.17\run\SNL100\inputs\SNLWT100A2_EOGO - Instant: 03-Jul-2014 19:40:21  
+
+

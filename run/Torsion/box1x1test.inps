@@ -1,0 +1,25 @@
+**
+** TEST DE CONSTITUTIVA DE SECCION CAJON
+** 
+**
+**
+*NODE
+         1,  0.0000         ,  0.0000         ,  0.0            
+         2,  1.0         ,  0.0        ,  0.0            
+         3,  1.0         ,  1.0        ,  0.0            
+         4,  0.0         ,  1.0         ,  0.0                        
+*ELEMENT,TYPE=T3D2,ELSET=TEPanel, LAMINATE=TEPanel
+         1,        1,        2
+         2,        2,        3
+         3,        3,        4
+         4,        4,        1
+**
+*MATERIAL, NAME=ELT5500
+*ELASTIC, TYPE=TRISOTROPIC
+	41.8E9,   14E9,  2.63E9,  2.63E9,  0.28, 1920
+**
+**
+*LAMINATE, NAME=TEPanel, MATERIAL=ELT5500
+	0    0   0   0  0
+	0.02  0.02  0.02  0.02  0.02
+*END

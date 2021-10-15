@@ -1,0 +1,19 @@
+**
+** Test de matriz de rigidez para un elemento de longitud 1
+** 
+**
+**   Template:  ABAQUS/STANDARD 3D
+**
+*NODE
+         1,  0.0            ,  0.0            ,  0.0            
+         2,  1.0            ,  0.0            ,  0.0 
+         3,  0.0            ,  0.0		      ,  1.0
+**
+*ELEMENT,TYPE=SCB2UL,ELSET=hendrix
+         1,         1,         2,     3
+**
+*GRAL SECTION, NAME=S05_DU93_W_210_23, ELSET=hendrix
+**
+**
+*END
+*****

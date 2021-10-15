@@ -1,0 +1,62 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                      x
+x                MULTIBODY SBEAM                       x
+x                                                      x
+x              C.M. Saravia - 2011                     x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+Job Name: SNLWT100A2_NWP113 - Instant: 13-Oct-2016 19:36:19  
+
+
+WARNING ! Forcing convergence in time step 21. 
+
+WARNING ! Forcing convergence in time step 22. 
+
+WARNING ! Forcing convergence in time step 24. 
+
+WARNING ! Forcing convergence in time step 25. 
+
+WARNING ! Forcing convergence in time step 26. 
+
+WARNING ! Forcing convergence in time step 27. 
+
+WARNING ! Forcing convergence in time step 28. 
+
+WARNING ! Forcing convergence in time step 29. 
+
+WARNING ! Forcing convergence in time step 30. 
+
+WARNING ! Forcing convergence in time step 31. 
+
+WARNING ! Forcing convergence in time step 32. 
+
+WARNING ! Forcing convergence in time step 33. 
+
+WARNING ! Forcing convergence in time step 34. 
+
+WARNING ! Forcing convergence in time step 36. 
+
+WARNING ! Forcing convergence in time step 37. 
+
+WARNING ! Forcing convergence in time step 38. 
+
+WARNING ! Forcing convergence in time step 39. 
+
+WARNING ! Forcing convergence in time step 40. 
+
+WARNING ! Forcing convergence in time step 41. 
+
+WARNING ! Forcing convergence in time step 42. 
+
+WARNING ! Forcing convergence in time step 43. 
+
+WARNING ! Forcing convergence in time step 44. 
+
+WARNING ! Forcing convergence in time step 45. 
+
+WARNING ! Forcing convergence in time step 46. 
+
+WARNING ! Forcing convergence in time step 47. 
+

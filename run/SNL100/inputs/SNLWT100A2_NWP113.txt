@@ -1,0 +1,54 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                      x
+x                MULTIBODY SBEAM                       x
+x                                                      x
+x              C.M. Saravia - 2011                     x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+Job Name: X:\1_INVESTIGACION\Software\mbdyn2.17\run\SNL100\inputs\SNLWT100A2_NWP113 - Instant: 03-Jul-2014 21:39:35  
+
+
+WARNING ! Forcing convergence in time step 21. 
+
+WARNING ! Forcing convergence in time step 22. 
+
+WARNING ! Forcing convergence in time step 24. 
+
+WARNING ! Forcing convergence in time step 25. 
+
+WARNING ! Forcing convergence in time step 26. 
+
+WARNING ! Forcing convergence in time step 27. 
+
+WARNING ! Forcing convergence in time step 28. 
+
+WARNING ! Forcing convergence in time step 29. 
+
+WARNING ! Forcing convergence in time step 30. 
+
+WARNING ! Forcing convergence in time step 31. 
+
+WARNING ! Forcing convergence in time step 32. 
+
+WARNING ! Forcing convergence in time step 33. 
+
+WARNING ! Forcing convergence in time step 34. 
+
+WARNING ! Forcing convergence in time step 36. 
+
+WARNING ! Forcing convergence in time step 37. 
+
+WARNING ! Forcing convergence in time step 38. 
+
+WARNING ! Forcing convergence in time step 39. 
+
+WARNING ! Forcing convergence in time step 40. 
+
+WARNING ! Forcing convergence in time step 41. 
+
+WARNING ! Forcing convergence in time step 42. 
+
+WARNING ! Forcing convergence in time step 43. 
+

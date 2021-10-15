@@ -1,0 +1,45 @@
+**
+** TEST ELEMENTO LINEAL
+** 
+**
+**
+*NODE
+	1,	0.00,	0.00,	0.00
+	2,	10.00,	0.00,	0.00
+	3,	20.00,	0.00,	0.00
+	4,	30.00,	0.00,	0.00
+	5,	40.00,	0.00,	0.00
+	6,	50.00,	0.00,	0.00
+	7,	60.00,	0.00,	0.00
+	8,	70.00,	0.00,	0.00
+	9,	80.00,	0.00,	0.00
+	10,	90.00,	0.00,	0.00
+	11,	100.00,	0.00,	0.00
+	12,	0.00,	1.00,	0.00
+    13, 51.00,  0.00,   0.00	
+*ELEMENT,TYPE=SCB2UL,ELSET=modelo
+         1,        1,        2,       12,      1
+         2,        2,        3,       12,      1
+         3,        3,        4,       12,      1
+         4,        4,        5,       12,      1
+		 5,        5,        6,       12,      1
+*ELEMENT,TYPE=SCB3LL,ELSET=modelo2		 
+         6,        13,       7,       12,      13
+         7,        7,        8,       12,      13
+         8,        8,        9,       12,      13
+		 9,        9,        10,      12,      13
+         10,       10,       11,      12,      13				  
+*ELEMENT,TYPE=REVJUL,ELSET=joint		 
+		 11,        6,        13,       12,    3
+*GRAL SECTION, NAME=Tower, ELSET=modelo
+*GRAL SECTION, NAME=Tower, ELSET=modelo2
+*STEP, NAME=prueba, TYPE=DYNAMIC, METHOD=ALPHA, NUMDAMP=0.4, NLGEOM=YES, STRDAMP=0.0, STRFRQ=0.4 
+0, 20, 0.05
+*BOUNDARY, TYPE=DISP
+ 1,  1, 6,  0
+**
+*BFORCE, NAME=gravedad
+0, 0, -300.0
+**
+**
+*END
